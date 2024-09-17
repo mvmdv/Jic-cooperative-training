@@ -1,0 +1,1218 @@
+| Number | Company Name |
+|--------|--------------|
+| 1 | إلى من يهمه الأمر |
+| 2 | Saudi New zeland comp alban |
+| 3 | Saudi Steel Pipe COLTD |
+| 4 | Saudi Fisheries Company |
+| 5 | ABACOORP |
+| 6 | Saudi Basic Industries Corporation - SABIC |
+| 7 | Saudi Pharmaceutical Industries and Medical Appliances |
+| 8 | Sudi Diesel Generators |
+| 9 | Comparical COLTD |
+| 11 | Nama Co. |
+| 12 | Anabeeb |
+| 13 | Arabian Company Group |
+| 14 | Saudi Chemical Company Ltd. |
+| 15 | National Company for the manufacture of chemical fertilizers |
+| 16 | National company for transportation |
+| 17 | Ncci Co. |
+| 18 | Nadec Co. |
+| 19 | Napco Flexible Packaging Companies |
+| 21 | المؤسسة العامة لتحلية المياه المالحة |
+| 22 | Swcc- Jeddah |
+| 24 | Saudi Factory For Nasej |
+| 25 | Royal Commision for Jubail |
+| 26 | ديوان المراقبة العامة |
+| 27 | Qassim Cement Co. |
+| 29 | Saudi Aramco shell Refinary (SASREF) |
+| 30 | Saudi Iron &amp; steel company(Hadeed) |
+| 31 | Saudi European Petrochmecal (IBN ZAHR) |
+| 32 | Saudi Fertilizer Comoany (SAFCO) |
+| 33 | Jubail Fertilizer Company - Baironi |
+| 34 | Kemya |
+| 35 | Saudi Petrochemical Company ( SADAF ) |
+| 36 | Saudi Methanol Company (AR-RAZY) |
+| 37 | Eastern Petrochemecal Company (SHARQ) |
+| 38 | Arabian Petrochemical Company (PETROKEMYA) |
+| 39 | National Industtrial Gases (GAS) |
+| 40 | Iben Sena Co. |
+| 42 | Saudi Aramco Mobil (SAMREF) |
+| 43 | EASTERN PROVINCE CEMENT CO . |
+| 44 | Asiain Brawn Bofairi |
+| 45 | National Anabeeb coltd |
+| 46 | Saudi Cement Co. |
+| 47 | Arabin Cement Co. |
+| 48 | Modern Electric COLTD |
+| 49 | Al-jabr Trading Co. |
+| 50 | Arabian Drilling Company |
+| 51 | Saudi Ceramic Co. |
+| 52 | Gulf Company for the production of margarines, oils and thei |
+| 53 | شركة الراجحي المصرفية للاستثمار |
+| 54 | AL-zahid Group |
+| 55 | Indastiral ModernCOLTD- Dammam |
+| 56 | Indastiral ModernCOLTD- Jeddah |
+| 57 | Saudi Yanbu Petrochemical Company (grow) |
+| 58 | Factory armored vehicles and heavy equipment |
+| 59 | KING FAHD INTERNATIONAL AIRPORT |
+| 62 | Sabic Markting Coltd |
+| 63 | SAB TANK |
+| 64 | Saudi Chevron Petrochemical |
+| 65 | Matel Coting Company |
+| 68 | gulfgurd Coltd |
+| 69 | faiber-tec |
+| 70 | Arabian Chamical Co. (Latex) |
+| 71 | Arab Pesticide industries company |
+| 72 | Soda Causticprills |
+| 73 | Olyan Coltd |
+| 74 | Formaldahied Coltd |
+| 76 | National Environmental Preservation Co. |
+| 77 | Basic Chemical Coltd |
+| 78 | Dahran Chemical coltd |
+| 79 | Halliburton |
+| 80 | Olayan Financing Company |
+| 81 | Saudi Carbonate Company |
+| 82 | AL-Marai Trading Co. Ltd. |
+| 83 | Pepsi coala |
+| 84 | Binzagr Lever Company |
+| 86 | Bechtel K.S.A |
+| 88 | RECOME K.S.A |
+| 89 | Safola |
+| 90 | Abdulatif Jamil coltd - Jeddah |
+| 91 | Abdulah Hashem COLTD |
+| 93 | Saudi Electricity Company- Rafha |
+| 94 | شركة لوحات التوزيع والقواطع |
+| 95 | Lucent Tknlogiz Company |
+| 96 | National Clearance Coltd |
+| 99 | Saudia Arabia Gases |
+| 100 | Dowell Schlumberger |
+| 102 | قيادة سلاح الأشارة |
+| 103 | Yanbu Industrial College |
+| 106 | Riyadh House Foundation (Dammam) |
+| 107 | Al-banawi Coltd |
+| 108 | National Metal Manufacturing and Casting Co. |
+| 110 | Ibn hyan For Plastic (Tayf) |
+| 111 | Saline Water Conversion Corporation |
+| 112 | Saudi Telecom Company |
+| 113 | Saudi Aramco Co. |
+| 114 | Aramco Gulf Operations Co. Ltd. |
+| 115 | Olayan group coltd |
+| 116 | Saudi Arabian Chevron Inc. |
+| 117 | Dabagh group |
+| 118 | Almana Hosbital |
+| 119 | The Water and Sanitation- Madinah |
+| 121 | A-Zamil Air Conditioners |
+| 122 | Zamil Aluminum Factory |
+| 123 | معهد الادارة العامة بالرياض |
+| 124 | SAUDI CONSULTING SERVICES |
+| 127 | Kingdom CO. |
+| 128 | Dallah Albarakh - Dammam |
+| 130 | Al Sawiatk Group |
+| 131 | مجموعة شركات الحمراني |
+| 132 | Alsuwaiket Triding Group |
+| 133 | The nathoinal commerecal bank |
+| 134 | Samba |
+| 135 | Saudi Britsh bank |
+| 136 | Banque Saudi Fransi (Riyadh) |
+| 137 | arab national bank |
+| 139 | Saudia Aribian Air line- Khober |
+| 140 | Britsh Space CO. |
+| 142 | Saudi Electricity Company- Abha |
+| 143 | Saudi Electricity Company-Dammam |
+| 144 | Saudi Electricity Company-Jeddah |
+| 146 | Saudi Basic Industries Co .SABIC |
+| 147 | Mubrad - Reyadh |
+| 152 | Coca cola - Dammam |
+| 153 | ALrashid Group CO. |
+| 154 | Albilad - Catalyst |
+| 155 | Abdulrahmman ALturky Group Coltd |
+| 156 | AL-zahid Group CO. |
+| 157 | Khalid ALturky Group CO. |
+| 158 | Jubail Chemicalcal Industries Co. |
+| 159 | National Industrialization Company |
+| 160 | AL-salam COLTD |
+| 161 | Power &amp; Water Utility Company For Jubail and Yanbou-MARAFIQ |
+| 162 | BILFAL HEAVY INDUSTRIES |
+| 166 | مصلحة المياه والصرف الصحي - الرياض |
+| 167 | Lzourdi Group |
+| 168 | AL-yser CO. |
+| 169 | Middle East for aircraft engines, Ltd. |
+| 172 | Al-Jazerah bank |
+| 173 | Saudi Standard, Metrology and Quality Orgnization |
+| 174 | Jubail United Petrochemical |
+| 176 | AL-ryadah bank |
+| 177 | Abdulhadi Al-ghtani Group CO |
+| 178 | Ganbar Group COLTD |
+| 179 | AL-magdoee group |
+| 180 | Saudi Airlines |
+| 181 | Gulf Farabi Petrochemecal Co. |
+| 182 | وزارة العمل والشؤون الاجتماعية |
+| 183 | Emanteet CO |
+| 185 | Alarabi Bank |
+| 186 | RIYAD BANK |
+| 187 | King Khalid Air bort |
+| 188 | GRAIN SILOS &amp; FLOUR MILLS ORGANIZATION - EASTERN PROVINCE |
+| 189 | Aujan Industries |
+| 190 | WESCOSA |
+| 192 | Aluminum Products Co. Ltd. (Alopko) |
+| 193 | Company Taylor Woodrow International Limited |
+| 194 | Saudi Fal Compani |
+| 195 | Saudi Champer Of Commerce - Dammam |
+| 196 | Saudi Industrial Paint Co. Ltd. |
+| 197 | شركة محمد سالم السويدي للخدمات الصناعية |
+| 198 | Samba |
+| 199 | Banque Saudi Fransi- Jubail Industrial |
+| 200 | The National Commercial Bank (Alahli) |
+| 201 | Arabian Industrial Fibers Co. |
+| 202 | Riyad Bank |
+| 203 | Al Khaleej Training and the electronics industry |
+| 204 | Saudi Transformers Co. Ltd. |
+| 205 | Al-Qassim Health Water |
+| 207 | Saudi Industrial Development Fund |
+| 208 | البنك السعودي البريطاني |
+| 209 | Saudi Company for engineering technical services (Stesa) |
+| 210 | Factory Saudi American Glass |
+| 211 | Compaq Co. |
+| 212 | Middle East Company for Batteries |
+| 213 | Adwan Chemicals Industries Co. Ltd. |
+| 214 | Saudi Arabian Mining Company (Mining) |
+| 215 | Saudi Arabian Kanet Co. Ltd. |
+| 216 | Arab Company for the manufacture of Ductile Iron Pipe Co. Lt |
+| 217 | Saudi Baker &amp; Petroleight Arabia Co. |
+| 218 | Jal International Co. |
+| 220 | GULF STABILIZERS INDUSTRIES |
+| 221 | شركة تداوي للخدمات الطبية المحدودة |
+| 222 | New Horizons Center |
+| 223 | Company vegetative Trade and Industrial Services |
+| 224 | Saudi Electricity Company-Hail |
+| 226 | Al Rashid Investments Co. |
+| 228 | Saudi Development and Training Ltd. |
+| 229 | الشركة العربية لثروة العلوم المحدودة (رسال) |
+| 230 | Samba |
+| 231 | Saudi Britsh bank |
+| 232 | Saudi Hollandi Bank |
+| 233 | The National Commercial Bank (NCB) |
+| 234 | AlBank AlSaudi AlFranci |
+| 236 | Al Rajhi Bank |
+| 237 | Arab Company for Paper Industry Co. Ltd. (paper) |
+| 238 | شركة آرثر دي ليتل الدولية المحدودة |
+| 239 | شركة سي بي أي العربية المحدودة |
+| 240 | Gulf company for the manufacture of salt, Ltd. |
+| 242 | Riyadh House Engineering Consultants |
+| 243 | Good for soil and materials engineering |
+| 244 | شركة ميرسك سي لاند |
+| 245 | معهد الإدارة العامة بالدمام |
+| 246 | ALQASWA |
+| 248 | IRTIBAT HOLDING COMPANY |
+| 250 | Arab Company for Marketing &amp; Agencies Ltd. |
+| 253 | Umm Al-Sahik High School |
+| 254 | InterContinental Hotels &amp; Resorts (Jubail) |
+| 255 | AL-MANNAR HIGH SCHOOL |
+| 256 | AL-AWJAM HIGH SCHOOL |
+| 257 | Factory National conditioner freon |
+| 258 | ASTTRA POLYMER COMPOUNDING CO.LTD. |
+| 259 | Amiantit Company (Saddip) |
+| 260 | Zamil Plastics Factory |
+| 261 | School of Prince Saud bin Naif bin Abdulaziz Primary Ahsa |
+| 262 | Saudi Telecom Company |
+| 263 | Saudi Telecom Company |
+| 264 | Saudi Telecom Company- Jizan |
+| 266 | MOHAMMED A. AL-DOSSARY EST |
+| 267 | SAUDI TELECOM Co. |
+| 268 | PMPQ&amp;E |
+| 269 | Abdullatif Jamil Retail Co. Ltd. |
+| 270 | Jubail Commercial Port |
+| 271 | A. ABUNYYAN GROUP |
+| 272 | ALJFALI COM |
+| 273 | Saudi Arabian Lubrication Oil Co. |
+| 274 | Yamama Saudi Cenment Company limited |
+| 277 | Wire Drawing And Related Products Factory-Aslak |
+| 278 | Arabian Metal Products Factory |
+| 279 | Saudi Filters Ind.Company |
+| 280 | Saudi Urthane Chemical Co.Ltd.SUCCO |
+| 281 | Iscosa Industrial &amp; Maintenance |
+| 282 | Alhamrani Industrial Group Co. |
+| 283 | Indionalko Company Limited |
+| 284 | Saudi Pharmaceutical Industries&amp;Medical CORPORATION |
+| 285 | Alhoty- Stanger Ltd. Co. |
+| 286 | Arabian Agricul Turial Services |
+| 287 | Saudi International Petrochemeca Co. |
+| 289 | Saudi Ojaih Company |
+| 290 | King Abdulaziz Naivy Base |
+| 294 | شركة بريدة للأغذية |
+| 295 | Jeraisy Company |
+| 296 | شركة التعاونية للتأمين |
+| 297 | HIGH CITY |
+| 298 | الشركة السعودية للأعمال البيئية |
+| 299 | AL KHAYAL DESIGN COMPANY |
+| 300 | KUBRA COMPANY |
+| 301 | شركة الزامل للصيانة والتشغيل بالجبيل |
+| 302 | Company Petrkon Arabia Limited |
+| 303 | Saudi Company for Trade Miscellaneous |
+| 304 | Baker Hughes Incorporated |
+| 305 | El-Ajou Group Trading |
+| 306 | Zamil Operations &amp; Maintenance Co. Ltd. |
+| 307 | German Foundation for Technical Cooperation |
+| 308 | Saudi Bin Laden Group |
+| 309 | Development Company Limited for the manufacture of iron |
+| 310 | شركة سالم محمد السويدي |
+| 311 | Holding company boom |
+| 312 | King Fahad Medical City |
+| 313 | Siemens Corporation |
+| 314 | معهد الجبيل التقني |
+| 315 | Sabaek |
+| 316 | Sabic Technology Center-Jubail |
+| 318 | Yoysef Ben Ahmed Kanoo |
+| 319 | Southern Province Cement Co. |
+| 320 | Al Tuwairqi Group of Companies-steel factory-2 |
+| 322 | Al-Jubail Sanatary Pipe Factory |
+| 323 | resal company |
+| 324 | saudi german company |
+| 326 | Abdulla Hashem Ind.Gases |
+| 327 | Ministry of education |
+| 328 | Jubail Energy Co. |
+| 329 | The National Commercail Bank-Dammam |
+| 330 | Saudi Electricity Company - Hail |
+| 331 | SGS Inspection Servicees Saudi Arabia Ltd. |
+| 332 | Saudi Consolidated Engineering Company |
+| 333 | Rabigh Refinery Department-Saudi Aramco |
+| 334 | Saudi Telecom |
+| 335 | Saudi Telecom |
+| 336 | Al Samh For Trade CompanyLtd. |
+| 338 | شركة الزامل للإستثمار الصناعي |
+| 339 | Saudi Electricity Co. |
+| 340 | Al Soaibi Plastic Factory |
+| 341 | Saline Water Conversion Corporation |
+| 342 | Saline Water Corporation |
+| 343 | Henkel Arabia |
+| 344 | البنك العربي الوطني - الخبر |
+| 345 | Al Imam Abdulrahman Bin Fiasal Hospital- Dammam |
+| 346 | Saudi Fransi Bank |
+| 347 | United Lube Oil Co. Ltd UNILUBE |
+| 348 | GULF STEEL WORKS |
+| 349 | AL-ITTEFAQ STEEL PRODUCTS COMPANY |
+| 350 | MAERSK LINE |
+| 351 | Al-Joaib Group |
+| 352 | Aramco - Riyadh |
+| 353 | Manteq Limited Company |
+| 354 | Remal Electric |
+| 355 | Group Five Pipe Saudi |
+| 357 | The Saudi Investment Banks |
+| 359 | Chemanol |
+| 360 | ZEN TECH |
+| 361 | Arab Bank - Al-Ahsa |
+| 362 | The sons of Hussein Kadhim Al-Sadiq |
+| 363 | Al-Falak Company |
+| 365 | Water &amp; Process Technologies Co. Ltd. |
+| 366 | Saudi Company for the transfer of bulk Co. Ltd. |
+| 367 | National Guard Health Affairs |
+| 368 | Heat Plastic |
+| 369 | Karim's teeth and his partner Co. |
+| 370 | King Fahd Specialist Hospital |
+| 371 | Foundation Systems Meteor international engineering business |
+| 372 | Secretariat of the Eastern Region |
+| 373 | Gulf Chemicals and industrial oils |
+| 374 | Jafr General Hospital |
+| 375 | Al Jazeera Academy World Education |
+| 376 | Company bodies for Trading and Contracting |
+| 377 | Company news for world trade and statements |
+| 378 | Maritime Industrial Services Company Saudi Arabia Limited |
+| 379 | Company Ghassan Abdullah Tiger Holding |
+| 380 | Ministry of Water and Electricity - the branch of al-Qatif |
+| 381 | Health Affairs, Eastern Province |
+| 383 | MK Cable Protection Systems |
+| 384 | Talal Abu-Ghazaleh &amp; Co. |
+| 385 | Chemical company Resins |
+| 386 | Daelim Company Saudi Arabia Limited |
+| 387 | King Fahd University of Petroleum and Minerals |
+| 388 | National Petroleum Services (NPS) |
+| 389 | Arab Company for Organizing Conferences |
+| 390 | Vlausrv Abahsain Company Limited |
+| 391 | Jeddah Chamber of Commerce |
+| 392 | Saudi Telecom Company - Jeddah |
+| 393 | Water Company, Najran |
+| 394 | Arab Center for Engineering Consultancy |
+| 395 | MMG |
+| 396 | Melhem company for the distribution of cars |
+| 397 | Salem Foundation to donkeys |
+| 398 | Ali Zaid Al-Qurashi Co. |
+| 399 | Arab and Western Atlas Ltd |
+| 400 | Al Abdulkarim Holding Co. |
+| 401 | Al Fardan industrial complex |
+| 402 | Al-Mutlaq of the manufacturing services |
+| 403 | Nesma &amp; Partners |
+| 404 | Babcock Purcej Surf Arabic Co. |
+| 405 | Sinan Bukhamseen Foundation Contractors |
+| 406 | Advanced Polypropylene Company |
+| 407 | Systems and advanced techniques Co. Ltd. |
+| 408 | Saptco Company |
+| 409 | King Fahd Hospital Hofuf |
+| 410 | Company sons of Faisal Al-Qahtani Trading &amp; Contracting Co. |
+| 411 | Qatif Central Hospital |
+| 412 | Sovkon |
+| 413 | Sewedy Holding Group |
+| 414 | Hospital, Prince Saud bin Galloway |
+| 415 | Yamama Company for business |
+| 416 | Haider Company for Trading and Contracting |
+| 417 | AZAR |
+| 418 | Gulf Carton Factory |
+| 419 | Al Ghadeer Co. |
+| 420 | Abdullah Al Mutawa Sons Co. |
+| 421 | General Organization for Water Desalination |
+| 422 | Petroleum Steel Co. Ltd. |
+| 423 | Tihama Power Plant Co. |
+| 424 | Company Azmi Abdulhadi and Abdulla Al Moaibed Consulting Eng |
+| 425 | Municipality of Al Ahsa |
+| 427 | Global technology company corrosion prevention, Ltd. |
+| 428 | Factory Fozan Steel Industries |
+| 429 | Gulf Korean Co. |
+| 430 | Company Anfcz Saudi Arabia Limited |
+| 431 | Al Mansoori Specialized Engineering Co. |
+| 432 | Samsung Saudi Arabia Ltd. |
+| 433 | Factory Sheddi |
+| 434 | Packaging Pipe Company Ltd. |
+| 435 | Jassim Al-Jawad Foundation Contractors |
+| 436 | Saudi Technologists |
+| 437 | Saudi Petrotech |
+| 438 | Ahed Factory |
+| 439 | Saudi Engineering Group Internationa |
+| 440 | Eurabia |
+| 441 | Gulf Company for the packaging industry |
+| 442 | Factory Rafeea Rashid Krbt for Metallurgical Industries |
+| 443 | REDA for hardware and Fire |
+| 444 | ALUMACO |
+| 445 | STC Qassim |
+| 446 | Branch of the Ministry of Water and Electricity Ahsa region |
+| 447 | عباللطيف جميل المحدودة |
+| 449 | Development Company and Real Estate Investment Co. Ltd. |
+| 450 | Centre for Advanced Card Systems |
+| 451 | Maternity Hospital and Children |
+| 452 | Saudi Electricity Company |
+| 454 | Global architecture firm |
+| 455 | Gas company for manufacturing and civil |
+| 456 | emerson |
+| 457 | Al Naeem Medical Dispensary |
+| 459 | General Directorate of Health Affairs, Asir region |
+| 460 | Abajp Corporation for Trading and Contracting |
+| 461 | Institute of Professional Studies of the Navy |
+| 463 | Hospital, King Abdulaziz National Guard |
+| 464 | Saudi Telecom Company - (Madinah) |
+| 466 | Jsko Company |
+| 467 | General Directorate of Water in Tabuk |
+| 468 | Hasa Chamber of Commerce |
+| 469 | The leadership of the Gaza border guards in Jubail |
+| 470 | Saudi Post Office |
+| 471 | Bricjn Energy Services Company Saudi Arabia Limited |
+| 472 | Ma'aden phosphate Co. |
+| 473 | King Fahad Industrial Port in Jubail |
+| 474 | Star Company |
+| 475 | City's hospital for women and babies and kids |
+| 476 | جامعة الامام عبد الرحمن - جامعة الدمام |
+| 477 | Mohammed Ali Al-Nasser for Transportation and Trade and Cont |
+| 478 | Arab Company for metal ware |
+| 480 | Factory Gulf-EU Co. |
+| 481 | Royal Commission Hospital in Jubail |
+| 482 | Emad Trading &amp; Contracting Co. |
+| 483 | Company over the limited energy |
+| 485 | Port Business Services |
+| 486 | Soliman Aelaidrezag Abdulkarim and Partners |
+| 487 | Factory Saudi Electric Water Heaters |
+| 488 | Melhem Company for Industry and construction |
+| 489 | Shmous International Contracting |
+| 490 | Foundation Engineering of Saudi organizations and electric m |
+| 491 | Extension of the pipeline company |
+| 492 | East Enterprise Trade and pledges |
+| 493 | Computer Department of the ground forces |
+| 495 | Company Rama Arabia |
+| 496 | Factory axes, foundries and spare parts |
+| 497 | Al Tahetheb Company |
+| 498 | Jeddah plant chip foam and sponge |
+| 499 | Jubail Industrial College |
+| 500 | Saudi Arabian Paint Sibeko |
+| 501 | Foundation Mohsen rapid Furniture |
+| 502 | The company's advanced inspection and sampling, Ltd. |
+| 503 | Crown Arab cans Limited |
+| 504 | General Directorate of Water in the Eastern Province |
+| 505 | King Abdulaziz City for Science and Technology |
+| 506 | Northern Area Armed Forces Hospital, Western |
+| 507 | STC Asir |
+| 508 | Brick factory Juma Mohammad Almeili |
+| 509 | Arabian Fiberglass Insulation Co. Ltd. |
+| 510 | Future Pipe Industrial co. |
+| 511 | Ranko Boden Company, Ltd. |
+| 512 | Company Oobescn of the elevators and escalators |
+| 513 | Industries insulating materials for water Dermabit Ltd. |
+| 514 | Al-Othman products Albulasticsp |
+| 515 | Royal Navy Sahudyp leadership - leadership of the eastern fl |
+| 516 | التوكيلات  العالمية  للسيارات |
+| 517 | Company sergeant for Trading &amp; Contracting |
+| 518 | Factory sympathy Stainless Steel |
+| 519 | The Saudi Company for Paper Converting |
+| 520 | Al-Kifah Holding Company |
+| 522 | Al Ahsa InterContinental Hotel |
+| 523 | Sahara Petrochemical Company |
+| 524 | South Rub al-Khali Company Limited |
+| 525 | Massoud Foundation Mohammed Hayder |
+| 527 | Development Corporation industrial projects for General Cont |
+| 528 | Mohammed Nahdi Group |
+| 529 | Company Snmbrceti Italian |
+| 530 | Algosoa support Co. Ltd. |
+| 531 | Health Affairs Ahsa |
+| 532 | Company abandonment of education and technical training |
+| 533 | Directorate General of Civil Defense in Dammam |
+| 534 | Municipality of Governorate of Al Jubail |
+| 535 | Consolidated Contractors Company Limited bays |
+| 536 | PJP Arabic Co. |
+| 537 | Municipality of Governorate of al-Qatif |
+| 538 | Pillars of the industry supply and services |
+| 539 | Factory quality manufacturing of the steel works |
+| 540 | Group Biibiku Commercial Services |
+| 541 | Company Anvil International, Ltd. |
+| 542 | GGC Gulf International Co. Ltd. |
+| 543 | Abdulla Fouad Holding Company |
+| 544 | Jomel |
+| 545 | شركة الكفاح لمواد البناء |
+| 546 | اراك |
+| 547 | Simens limited co. |
+| 548 | Technical &amp; Vocational Training corporation |
+| 549 | King Abdul-Aziz Port |
+| 550 | King Fahd AirBase - Taif |
+| 551 | Zahran company |
+| 552 | STC - Najran |
+| 553 | Zamil Offshore |
+| 554 | The 4th co. Sinopec |
+| 555 | GEMS |
+| 556 | Walaa Insurance co. |
+| 557 | Sun Ace Gulf Co. |
+| 558 | Al-Qahtani Pipe Cating Co. |
+| 559 | National oil well maintanace co. |
+| 560 | A. &amp; R.Al-Fardan |
+| 561 | Al-Sunbalah Limited Co. |
+| 562 | Bader Al-Husaini Co. |
+| 563 | Azmeel Co. |
+| 564 | Abdul-Hadi &amp; Talal Co. |
+| 565 | Globe Marine Srevices Co. |
+| 566 | Total Saftey Co. |
+| 567 | Al-Twairqi Group Companies |
+| 568 | ASAS Universal Co. Ltd |
+| 569 | Abdullah Badran Accountant Office |
+| 570 | cooper Industries |
+| 571 | CRISTAL CO. |
+| 572 | Petro Rabegh Co. |
+| 573 | Byader Est. |
+| 574 | Royal Commission Yanbu |
+| 575 | Water Salin Shuaibah |
+| 576 | B J company |
+| 577 | Dar Alyuom |
+| 578 | Chamber of commerce &amp; Industry |
+| 579 | Saudi Airlines Najran |
+| 580 | EY |
+| 581 | Mobily |
+| 582 | Water local company |
+| 583 | AL MASAOOD ENERGY |
+| 584 | National Company For Petrochemical |
+| 585 | Al-Matrood Company |
+| 586 | Pan Gulf Holding  Company |
+| 587 | Saudi Eng. Commity |
+| 588 | Water Company |
+| 589 | Arkan Technology |
+| 590 | Al-Arabi Company |
+| 591 | Control System Company |
+| 592 | Alstom Company |
+| 593 | AMCO company |
+| 594 | Al-Taiseer International Company |
+| 595 | Al-Zamil Holding Group |
+| 596 | Saudi Distribution Company |
+| 597 | Osos Al-Mashreq |
+| 598 | URSC Company |
+| 599 | Weather Ford Company |
+| 600 | بلدية محافظة محايل عسير |
+| 601 | Grain Silos &amp; Flour Mills Organization  - Al-Madinah city |
+| 602 | SEC-Tabuk |
+| 603 | Sec-Qasim |
+| 604 | Al-Rajhi Bank |
+| 605 | KIMMCO |
+| 606 | Maaden |
+| 607 | Digital Connection company LTD. |
+| 608 | Jubail Hit Factory |
+| 609 | Afia International |
+| 610 | National port comapny |
+| 611 | NCR solutions |
+| 612 | الاسقف الشرقية |
+| 613 | Maheal Aseer Hpspital |
+| 614 | General Eect. |
+| 615 | Ministry of forien affairs |
+| 616 | Fielld Pipe Sys. |
+| 617 | Bank Albilad |
+| 618 | Takween Company |
+| 619 | Ministry of water &amp; electricity-Mahyel Asir |
+| 620 | Al-Oula for O &amp; M |
+| 621 | شركة صله |
+| 622 | King Abdulaziz Air Force |
+| 623 | KSU |
+| 624 | Sabic- Yanbu |
+| 625 | Equipments for airplane co. |
+| 626 | Detecon |
+| 627 | Flawserf Alrasheed co. Ltd. |
+| 628 | Al-Ajmi For Plastic Recycling |
+| 629 | Power Tech. Steel |
+| 630 | Qasr Al-sham Hotel |
+| 631 | Saudi readymix concerete co. |
+| 632 | Sausi Standards, Metrology and quality Org. |
+| 633 | Saudi Amanah Contracting Company |
+| 635 | Al-Ttayyar Group |
+| 636 | Al-Rasheed Sypem |
+| 637 | Ameenat |
+| 638 | Weir  Oil And Gaz |
+| 639 | Velosi KSA Ltd. |
+| 640 | Bp Company |
+| 641 | SEC Sharotah |
+| 642 | SEC Jazan |
+| 643 | South cement factory |
+| 644 | SEC Najran |
+| 645 | Middle East Paper |
+| 646 | SEC Hafer Al-Baten |
+| 647 | Petrol &amp; Chet. &amp; Min. Co. |
+| 648 | Brothers Comany for Tech. Services |
+| 649 | Al-SSawayer Trading Co. |
+| 650 | Water Branch |
+| 651 | Al-Shera Condition company |
+| 652 | Middle East Poly Co. |
+| 653 | Al-Banger Factory For Platic |
+| 654 | Anjad Plastic Factory |
+| 655 | GOSI Eastren Region |
+| 656 | ISHRAQA For Trading &amp; Contracting |
+| 657 | Al-Bilad Bank |
+| 658 | Riyadh Cement Co. |
+| 659 | Al-Nasban Group |
+| 660 | الشئون الصحية بحفر الباطن |
+| 661 | Material Testing Labortory |
+| 662 | Water assosiation in Ahsa |
+| 663 | Al-Rehab Company |
+| 664 | Arabiam Es. For Trading and Navigation |
+| 665 | Al-Ahli Bank |
+| 666 | Poly Tech |
+| 667 | FEBCO |
+| 668 | Al-Showier Company |
+| 669 | Youse Zohairi Co. |
+| 670 | A.G.Shaker Co. |
+| 671 | Al-Muhaideb Land Transport |
+| 672 | Al Salem Yourk Company |
+| 673 | Al-Rashed Tyres Company |
+| 674 | Future siramic |
+| 675 | Bas Al-Jubai Est. |
+| 676 | Al-Olab LAb |
+| 677 | Al-Ghaz Al-Ahlyah |
+| 678 | Delta Co. |
+| 679 | Arnon Co. |
+| 680 | مؤسسة فيصل الشهيل للخدمات التجارية |
+| 681 | Alkhorayef Petroluem |
+| 682 | A.A.Seramic &amp; Geranet Est. |
+| 683 | Al-Khaleej Power |
+| 684 | Al Sale Eastren Co. Ltd |
+| 685 | Sasco Ltd Co. |
+| 686 | Al salem Johanson Control |
+| 687 | Cordel Co. |
+| 688 | Al Sharq Plastic |
+| 689 | Al Bank Al Arabi - Safwa |
+| 690 | Nasser Al Yami Co. |
+| 691 | Gulf Petro Chet. Co. |
+| 692 | A.Al Badr Co. |
+| 693 | Hitachi Sehati Co. |
+| 694 | Arabian Petrol Trading Co. |
+| 695 | Saudi railways Organization |
+| 696 | Arabian Saudi Fund Estataement |
+| 697 | Fego |
+| 698 | Rajeh Al Marri Co. |
+| 699 | Hunday |
+| 700 | Precast Building Factory Co. |
+| 701 | Water &amp; Electricity in Qaseem |
+| 702 | Saudi Hollandi Bank |
+| 703 | National Contracting co. |
+| 704 | Domt Contracting |
+| 705 | Rawabi Trade Co. |
+| 706 | TME Teco Co. |
+| 707 | Al Bena Al Fakher Group |
+| 708 | AET |
+| 709 | Al Hwail Co. |
+| 710 | Jakobi |
+| 711 | Ahmed Al Fahhad |
+| 712 | ISSA Co. |
+| 713 | Amnco Company |
+| 714 | Trio Mada |
+| 715 | Al Tamimi Company |
+| 716 | Al Jabr Talki |
+| 717 | Nada Copmany |
+| 718 | Isozo Motors Cpmany |
+| 719 | Zujaj |
+| 720 | STISCO |
+| 721 | شركة بيرما بايب العربية السعودية |
+| 722 | Safola |
+| 723 | Petojet |
+| 724 | Saudi Factory for Files |
+| 725 | King Khalid Hospital |
+| 726 | Ali H Al Dahan Co. |
+| 727 | Al Rai |
+| 728 | RCJY |
+| 729 | Aramco For oil |
+| 730 | Al Ganbar And Partner co. |
+| 731 | Cameron Al Rashed Co. Ltd. |
+| 732 | Food And Medical Commissiom |
+| 733 | Esam Qabani Co. |
+| 734 | Atlad Industrial Equipment Co. |
+| 735 | ARAMEX |
+| 736 | Swana Investment |
+| 737 | STC Hafer Al Baten |
+| 738 | Maaden Aluminuim |
+| 739 | Blue Ways International |
+| 740 | Prof. Solution Group |
+| 741 | Al Rasheed Dresser |
+| 742 | Demag cranes and components |
+| 743 | Geotechnical Testing Center |
+| 744 | Dr. Hamed Al Ahmadi Hospital |
+| 745 | كلية الفيحاء الأهلية |
+| 746 | Ersal Al Hsaa |
+| 747 | SNC Co. |
+| 748 | Somac |
+| 749 | Kids Hospital - Dmmam |
+| 750 | Ietqan Industrial Sedvices |
+| 751 | Motabaqah |
+| 752 | Jubran Holding |
+| 753 | Enshaat For Trading |
+| 754 | Comm IT Middle East CO. |
+| 755 | Nationa Plastic Company |
+| 756 | BABTAIN |
+| 757 | Jawab |
+| 758 | Saudi Dolomite Company |
+| 759 | Bank Al-Bilad |
+| 761 | Al Hayah Medical Co. |
+| 762 | Arbah Financial Co. |
+| 763 | Saudi Ground Service Co. |
+| 764 | Al Eid Baker Est. |
+| 765 | F S Elliott |
+| 766 | White Stone Co. |
+| 767 | Al Nahl For Computer Co. |
+| 768 | Al Ahsa Medical Co. |
+| 769 | Medical Health at Madinah |
+| 770 | King Abdul aziz Medical city |
+| 771 | Tarout |
+| 772 | Zain Industries Co. |
+| 773 | MASA |
+| 774 | CPC Group |
+| 775 | شركة الفوزان لمواد البناء |
+| 776 | المديرية العامة للشؤون الصحية بالمنطقة الشرقية |
+| 777 | دلة التجارية (ترين) |
+| 778 | الشؤون الصحية بالطائف |
+| 779 | شركة خدمات المعامل الاسترالية العربية |
+| 780 | شركة إيمرسون |
+| 781 | شركة تقنية المشروعات الصناعية |
+| 782 | ABB |
+| 783 | شركة جي جي سي الخليج العالمية المحدودة |
+| 784 | مكتب وزارة المالية بالأحساء |
+| 785 | شركة البتروكيماويات التحويلية المحدودة |
+| 786 | اراك |
+| 787 | فرع شركة شاينا ناشونال كيميكال انجنيرينج |
+| 788 | Al Ghadeer Company |
+| 789 | الضويان |
+| 790 | Saudi Geophiscal |
+| 791 | Fawaz Al Hukair |
+| 792 | شركة خطوط الخدمات الصناعية |
+| 793 | Al Bazei Group |
+| 795 | أمانة الأحساء |
+| 796 | مديرية الزراعة بالأحساء |
+| 797 | فرع شركة توف سود ميدل ايست - ذ.م.م |
+| 799 | Spacepaker Co. |
+| 800 | Tojar Trading Co. |
+| 801 | Amlak Gold REal State office |
+| 802 | مصانع الخليج العربي المحدودة للصناعات البلاستيكية والمطاطية |
+| 803 | Nalco |
+| 804 | شركة سديم الزراعية |
+| 805 | Saudi Sesing Co. |
+| 806 | Minifah Painting Co. |
+| 807 | GULF PACKAGING INDUSTRIES |
+| 808 | Coral Peach Hotel |
+| 809 | Finance Ministry |
+| 810 | BIN DALAN TRANSPORTATION EST. |
+| 811 | rawabiholding Company |
+| 812 | مكتب عراقة بناء |
+| 813 | ALBARAJEEL ADVERTISING COMPANY |
+| 814 | International Pediatric Nutrition Company (Al-Marai) |
+| 815 | Jumeirah Trading CO. LTD |
+| 816 | Petromin Company |
+| 817 | مستشفى الحرس الوطني - مركز الأعمال |
+| 818 | وزارة المياه والكهرباء - فرع الخبر |
+| 819 | Al-Khodari metal work Factory Co. |
+| 820 | SAUDI STANDARDS |
+| 821 | Arab National Bank (ANB) |
+| 822 | Tamimi Global CO. LTD (TAFGA) |
+| 823 | PLANT TECH |
+| 824 | Ministry of National Guard - Health Affairs |
+| 825 | Sadara Chemical Company |
+| 826 | الشركة السعودية للتسويق - أسواق المزرعة |
+| 827 | مدينة الأمير سلطان الطبية العسكرية |
+| 828 | Jubail University College |
+| 829 | Saudi Aramco for Basic Oil,s - Luberef |
+| 830 | الشركة الوطنية لنقل الكهرباء - قطاع صيانة الشبكة |
+| 831 | Trading &amp; Development Co. (Tradco) |
+| 832 | شركة الإنشاءات الموحدة |
+| 833 | Construction Technical Services Arabia Ltd. |
+| 834 | شركة ثيرمال اير الصناعية |
+| 835 | Advanced Inspection Service Co. |
+| 836 | Salman Group Industrial &amp; Commercial |
+| 837 | Al-Sin Al-Momaiaz Dental Center |
+| 838 | فرع المياه بمحافظة الأحساء |
+| 839 | شركة الصين الوطنية لهندسة الكيماويات |
+| 840 | ALMER |
+| 841 | نيفادا |
+| 842 | Arabian Fal Holding |
+| 843 | شركة البيئة والطاقة المحدودة |
+| 844 | Sraco Company |
+| 845 | الشركة السعودية للكهرباء - محطة توليد الباحة |
+| 846 | Azbil Saudi Limited |
+| 847 | Mastoura for Trading &amp; Contracting CO. LTD. |
+| 848 | المؤسسة العامة لتحلية المياه المالحة - ينبع |
+| 849 | Bin Hendi Factory |
+| 850 | مكتب المهندس فهد علي رضا للاستشارات الهندسية |
+| 851 | شركة دار الرياض القابضة |
+| 852 | فندق إنتركونتيننتال الخبر |
+| 853 | شركة فيليبس للإنارة العربية |
+| 854 | الشؤون الصحية بالباحة |
+| 856 | SHGARDI |
+| 857 | مصنع الخليج لصياغة الذهب |
+| 858 | الاتصالات السعودية بالباحة |
+| 859 | العالمية للصناعات البحرية |
+| 860 | ALRAJHI TAKAFUL |
+| 861 | شركة الصناعات الحديثة |
+| 862 | PERFECT PICK |
+| 863 | شركة ساف |
+| 864 | شركة أرسيلور ميتال |
+| 865 | مركز صحي قوى الأمن بالدمام |
+| 866 | شركة تكنولوجيا الطاقة |
+| 867 | CRCC |
+| 869 | FAS COMPANY |
+| 870 | مصنع مافكو |
+| 871 | شركة نابورس العربية |
+| 872 | DAR AL-UMARNIYAH STUDIES COMPANY |
+| 873 | شركة بيسكو للخدمات الصناعية |
+| 874 | شركة كيمانول |
+| 875 | شركة ساتورب |
+| 876 | تيكنياس يونيداس |
+| 877 | AL ANSARI ENGINEERING CONSULTING OFFICE |
+| 878 | شركة داو سبيشيالتيز المحدودة |
+| 879 | شركة ياسرف |
+| 880 | مؤسسة هارم جنج داي للمقاولات |
+| 881 | مؤسسة إيرام العربية للخدمات المساندة |
+| 882 | مستشفى قوى الأمن بالدمام |
+| 883 | مجموعة محمد العجيمي |
+| 884 | الشركة السعودية للكهرباء - فرع الدوادمي |
+| 885 | شركة مصنع دان للبلاستيك |
+| 886 | شركة عبداللطيف ومحمد الفوزان |
+| 887 | شركة أعمال نافا المحدودة |
+| 888 | شركة الهدف للإنشاءات السعودية |
+| 889 | شركة المجدوعي القابضة |
+| 890 | شركة القياديون |
+| 891 | K-Kem Company |
+| 892 | BAE System Company |
+| 893 | شركة الفنار للخدمات الفنية |
+| 894 | الهندسة والأبحاث العالمية وشريكها |
+| 895 | المعهد السعودي التقني لخدمات الكهرباء |
+| 896 | الشركة العربية السعودية للهندسة المحدودة |
+| 897 | الشركة السعودية للكهرباء بعسير - بيشة |
+| 898 | الشركة السعودية للأنابيب |
+| 899 | شركة أسس العوازل المحدودة |
+| 900 | مؤسسة الفحص للمقاولات |
+| 901 | شركة سمكو للفحص وللخدمات الصناعية |
+| 902 | مجموعة حمود العلي الخلف للتجارة |
+| 903 | شركة الرفراف للنقليات المتحدة |
+| 904 | مصنع شركة أسيكو السعودية المحدودة |
+| 905 | مؤسسة جودة الفحص للمقاولات |
+| 906 | شركة محولات الطاقة السعودية |
+| 907 | برنامج الخدمات الصحية |
+| 908 | شركة مصنع الجبل |
+| 909 | شركة مصنع الشرق للبوليستيرين المحدودة |
+| 910 | شركة مصنع أسس التقدم |
+| 911 | دار الخليج للهندسة |
+| 912 | الشركة المميزة لأعمال البترول والغاز |
+| 913 | شركة خدمات ضبط الجودة |
+| 914 | فندق كايتون ناتي الخنيني |
+| 915 | مصنع الخليج لتكسية الحديد |
+| 916 | شركة مصنع آسيا للحديد المحدودة |
+| 917 | شركة منبر الأعمال التجارية |
+| 918 | العالمية لتقنية منع التآكل |
+| 919 | هيئة الإذاعة والتلفزيون |
+| 920 | شركة المشارق للتجارة والمقاولات |
+| 921 | foster wheeler |
+| 922 | شقق ماديرا للوحدات السكنية المفروشة |
+| 923 | Quality Control, NDT |
+| 924 | شركة هوختيف سوليوشنز العربية السعودية |
+| 925 | ALDAR |
+| 927 | شركة فالوريك العربية السعودية |
+| 928 | مؤسسة درة المحيط للتجارة |
+| 929 | مصنع المذيبات الكيميائية المتخصصة |
+| 930 | مصنع العزاز لأوراق الكمبيوتر |
+| 931 | مصنع الراشد للمنتجات الخشبية |
+| 932 | مصنع الخليج التقني |
+| 933 | مصنع الجزيرة لصياغة الذهب |
+| 934 | مختبر سيقا |
+| 935 | عبدالهادي عبدالله القحطاني وأولاده |
+| 936 | شركة مصنع ليندي الجبيل للغازات الصناعية |
+| 937 | شركة مصنع أمدادات الجودة |
+| 938 | THE OFFICE OF ABDULLAH ABDUL RAHMAN BIN MUHAMMAD AL-MURSHID,CERTIFIED ACCOUNTANTS AND AUDITORS |
+| 939 | شركة عبدالعزيز محمد العثمان وشركاؤه |
+| 940 | شركة جلوبال استيل دست الخليج |
+| 941 | شركة الصناعات الكيميائية الأساسية |
+| 942 | شركة التنظيف الأول للتجارة |
+| 943 | شركة الأمينات العربية |
+| 944 | مؤسسة عبدالله إبراهيم التميمي للخدمات الصناعية |
+| 945 | RATIMAH PUBLIC ACCOUNTANTS &amp; AUDITORS CO. |
+| 946 | GE OIL &amp; GAS |
+| 947 | مصنع المعجل لأكياس التعبئة |
+| 948 | شركة منتجات الألمنيوم |
+| 949 | شركة تقنيات أزر للخدمات الصناعية |
+| 950 | شركة روابي للكهرباء |
+| 951 | Yokogawa |
+| 952 | WorleyParsons |
+| 953 | وزارة الشؤون القروية والبلدية |
+| 954 | وزارة البيئة والمياه والزراعة |
+| 955 | مكتب آدم للتصميم الداخلي |
+| 956 | سابتكو |
+| 957 | شركة ويبرو العربية الحدودة |
+| 958 | شركة علا عزمي و خليفة الحواس للإستشارات الهندسية |
+| 959 | شركة طاقة سنجل |
+| 960 | شركة دقة التقنية والجودة |
+| 961 | شركة درة الجبيل |
+| 962 | شركة أبانا للمشاريع |
+| 963 | شركة الاكيات المبتكرة لحلول الخزانات |
+| 964 | الرواد الوطنية |
+| 965 | العالمية للأنابيب |
+| 966 | السعودية لهندسة وصناعة الطيران |
+| 967 | المديرية العامة للمياة بالقطيف |
+| 968 | Erne Fittings |
+| 969 | مستشفى الملك سلمان للقوات المسلحة بالشمالية الغربية |
+| 971 | إمارة المنطقة الشرقية - محافظة الجبيل |
+| 972 | شركة خدمات منع التأكل |
+| 973 | شركة انجينيا بوليمرز |
+| 976 | شركة مطارات الدمام |
+| 977 | القوات البرية الملكية السعودية - سلاح الصيانة |
+| 978 | عمليات الخفجي المشتركة |
+| 979 | مستشفى الامام عبدالرحمن بن فيصل بالدمام |
+| 980 | المؤسسة العامة للصناعات العسكرية |
+| 981 | مجموعة السيف |
+| 983 | مصنع شركة أعمال الصمامات المتقدمة المحدودة |
+| 984 | معفاة |
+| 985 | مشغل ريس بن محفوظ للذهب |
+| 986 | جبين |
+| 987 | مؤسسة حسن عبدالله المسلمي للمقاولات |
+| 988 | MAADEN |
+| 989 | شركة مصنع مصادر الشرق |
+| 990 | شركة زبلن الخليج |
+| 991 | شركة تقنية الاتقان |
+| 992 | شركة اس ان سي |
+| 993 | شركة البسام |
+| 994 | شركة سيدرس |
+| 995 | شركة مصنع الزاهد للحديد |
+| 996 | الشركة الشرقية للتجارة و التعهدات |
+| 997 | الشركة العربية السعودية لصناعة مواد التعبئة |
+| 998 | أمارة المنطقة الشرقية |
+| 999 | أنظمة الخليج المتقدمة |
+| 1000 | بومبارديه |
+| 1001 | الادارة العامة لخدمات المياه بالمنطقة الشرقية |
+| 1002 | رافاقو |
+| 1003 | مصنع المنتجات المميزة |
+| 1004 | مؤسسة مناور لافي الاسلمي التجارية |
+| 1005 | مكتب غسان عبدالله النمر لتجارة الذهب |
+| 1006 | شركة الراشد القطاع الصناعي |
+| 1007 | شركة المطلق للاستثمار العقاري |
+| 1008 | مؤسسة عبدالله إبراهيم التميمي |
+| 1009 | مصنع شركة يو اس جي الشرق الاوسط المحدودة |
+| 1010 | كوبرهيت |
+| 1011 | شركة منصع اليمامة للصناعات الحديدية و الكهروميكانيكية |
+| 1012 | شركة التكامل التقني للخدمات الصناعية المحدودة |
+| 1013 | شركة الاقمشة الصناعية الغير منسوجة |
+| 1014 | بلدية محافظة سيهات |
+| 1015 | شركة الفوزان للتجارة و المقاولات |
+| 1016 | مؤسسة عيش ببساطة لتنظيم الفعاليات |
+| 1017 | مؤسسة اللوحة البيضاء |
+| 1018 | كلية المدربين التقنيين |
+| 1019 | شركة عبدالله هادي بالحارث و شركاه |
+| 1020 | شركة ماريا العالمية للخدمات التعليمية للبنين |
+| 1021 | المؤسسة العامة للري |
+| 1022 | ارني فيتنجنز |
+| 1023 | التأثير الاخضر |
+| 1024 | الحاسب العربي |
+| 1025 | شركة العسيس |
+| 1026 | الشركة الوطنية للاعلاف |
+| 1027 | شركة بي ام سي |
+| 1028 | توباز الخليج للمقاولات |
+| 1029 | تيكسو فيب |
+| 1030 | شركة جى جي سي الخليج العالمية المحدودة |
+| 1031 | شركة عادل أبو السعود |
+| 1032 | ثري ام |
+| 1033 | المختبر الخليجي |
+| 1034 | امينتات |
+| 1035 | انماء لتصنيع الحديد |
+| 1036 | ايمرسون |
+| 1037 | شركة المنتجات البيتومينية المحدودة - بيتومات |
+| 1038 | بيشوف اند كلاين |
+| 1039 | جون كرين |
+| 1040 | دال العربية للمقاولات |
+| 1041 | صناعة انابيب المستقبل |
+| 1042 | كوثر المياه للمقاولات |
+| 1043 | كي كيم |
+| 1044 | مقياس التقنية |
+| 1045 | خدمات النفط الوطنية |
+| 1046 | تكنيكاس |
+| 1047 | مصنع الشركة العالمية للكيماويات |
+| 1048 | شركة رسيرفوار جروب السعودية |
+| 1049 | جمعية الجارودية الخيرية |
+| 1050 | اسيا ستيل |
+| 1051 | صندوق العدد الصناعية |
+| 1052 | بنك الخليج الدولي |
+| 1053 | شركة الخدمات العالمية |
+| 1054 | شركة روزن |
+| 1055 | وزارة التجارة و الاستثمار |
+| 1056 | وزارة البيئة |
+| 1057 | البسامي للنقليات |
+| 1058 | تيبسا |
+| 1059 | قسم شرطة الحناكية |
+| 1060 | JGC Gulf International Co. Ltd. |
+| 1061 | شركة السلام لصناعة الطيران |
+| 1062 | شركة إنجينيا بوليمرز |
+| 1063 | إنجينيا بوليمرز |
+| 1064 | المؤسسة العامة لتحلية المياه المالحة برأس الخير |
+| 1065 | شركة أرامكو السعودية توتال للتكرير والبتروكيماويات (ساتورب) |
+| 1066 | الشركة السعودية للخطوط الحديدية - سار |
+| 1067 | شركة الطويرقي |
+| 1068 | شركة كليف لاند |
+| 1069 | ارامكو السعودية |
+| 1070 | شركة ويذر فورد |
+| 1071 | شركة البواردي |
+| 1072 | شركة الروابي |
+| 1073 | شركة التميمي |
+| 1074 | الهيئة الملكية للجبيل و ينبع |
+| 1075 | شركة شيفرون فليبس |
+| 1076 | شركة محولات الطاقة |
+| 1080 | قاعدة حرس الحدود الساحلية بالخليج العربي |
+| 1081 | شركة اشكروفت الرشيد لاجهزة القياس المحدودة |
+| 1084 | شركة مرافق الكهرباء والمياه بالجبيل وينبع |
+| 1085 | شركة التصنيع الوطنية |
+| 1087 | شركة نسر |
+| 1088 | شركة العربية للأنابيب |
+| 1089 | شركة الإتصالات السعودية |
+| 1090 | شركة الكهرباء السعودية |
+| 1091 | شركة الرشيد درسر |
+| 1092 | شركة أماك للتعدين |
+| 1093 | شركة كيمائيات الميثانول - كيمانول |
+| 1095 | شركة صدارة للبتروكيماويات |
+| 1096 | شركة الصحراء العالمية للبتروكيماويات |
+| 1099 | شركة أركاد السعودية |
+| 1100 | شركة سعودي اركاد |
+| 1101 | أرامكو لأعمال الخليج في الخفجي |
+| 1102 | ٌRoyal Saudi Navy Forces |
+| 1104 | الشركة السعودية للصناعات الأساسية- سابك |
+| 1105 | AlRaed office |
+| 1107 | Concept Desgin |
+| 1110 | Dr. Ali ALJouf Office |
+| 1111 | وزارة الصحة |
+| 1112 | ADAMZ |
+| 1113 | Nama Co. |
+| 1115 | ALRAZI CLINIC |
+| 1116 | ALREEM Hotel |
+| 1117 | ARASCO |
+| 1118 | TWEEQ ALSHARQIA |
+| 1119 | Jubial University College Female Branch |
+| 1120 | VALLEY TOWER FO ENGINEERIN |
+| 1121 | Saudi Sinyar |
+| 1122 | GSW |
+| 1123 | HCILAB |
+| 1124 | import and Contracting Company Ltd. |
+| 1125 | Khonaini Station Petroleum Services |
+| 1126 | Mohamed Al Aslami Factory |
+| 1127 | NASHER |
+| 1130 | Petron Saudi Industrial |
+| 1132 | Saudi Authority for Data and Artificial Intelligence |
+| 1139 | SUN ACE |
+| 1143 | National Anabeeb coltd |
+| 1146 | ETECKSA |
+| 1148 | SISCO |
+| 1149 | Misk Foundation |
+| 1150 | Saudi Arabia Ministry of Communications and Information Technology |
+| 1151 | BARKIN HOTEL |
+| 1158 | PETROMIN LUBRICATING OIL CO. (PETROLUB) |
+| 1161 | Saudi Chevron Petrochemical |
+| 1163 | United Oil Company |
+| 1177 | AL-Marai Trading Co. Ltd. |
+| 1180 | training company |
+| 1192 | Arkaz |
+| 1195 | UNILUBE |
+| 1196 | ikea |
+| 1198 | فندق الدانة |
+| 1199 | الخطوط الهندسية |
+| 1201 | روزن قروب |
+| 1202 | Almana Hosbital |
+| 1203 | مكتب التعليم بينبع |
+| 1205 | جهة تدريب تعاوني |
+| 1213 | Samba |
+| 1216 | arab national bank |
+| 1221 | Jubail General Hospital |
+| 1227 | Senior Project |
+| 1235 | Eppm Jubail Office |
+| 1239 | AL-gomiah Group CO. |
+| 1241 | مكتب ازار للهندسة |
+| 1244 | Holilah Charity |
+| 1253 | Safari |
+| 1256 | شركة محمد نخلة |
+| 1257 | شركة الفارابي |
+| 1260 | ساسرف |
+| 1261 | العليان |
+| 1262 | جلوباتك |
+| 1264 | الزامل للصناعات الغذائية المحدودة |
+| 1265 | مكتب التعليم |
+| 1266 | مسوك |
+| 1269 | شركة البحر الأحمر |
+| 1271 | مدرسة دار البيان الأهلية |
+| 1273 | مكتب إيهاب العامري للاستشارات الهندسية |
+| 1274 | شركة الابتكار |
+| 1276 | الشركة العالمية للتدريب |
+| 1277 | AGEC |
+| 1279 | مؤسسة الدوائر الحمراء |
+| 1280 | مدينة الملك عبد العزيز للعلوم والتقنية - مكتب إدارة المشاريع نائب الرئيس لدعم البحث العلمي |
+| 1281 | tadawul |
+| 1283 | شركة الرواد |
+| 1284 | شركة حلول الأعمال الاستراتيجية |
+| 1285 | شركة شاينا نيو انجنيرنق |
+| 1286 | شركة فالوريك |
+| 1287 | وزارة المياه بالجبيل |
+| 1290 | المؤسسة العامة لتحلية المياه المالحة - محطات الجبيل |
+| 1291 | الزامل محاسبون ومراجعون قانونيون |
+| 1292 | شركة الإنماء الزراعية |
+| 1294 | الخنيني |
+| 1295 | ALYAMAMAH |
+| 1296 | شركة أميانتيت |
+| 1297 | ساتورب |
+| 1298 | صدارة |
+| 1299 | شركة انقلاب الجبيل لتطوير المشاريع |
+| 1300 | شركة مرافق |
+| 1301 | شركة معادن |
+| 1302 | مؤسسة الحلفاء بالدمام |
+| 1303 | مستشفى القوات المسلحة بالجبيل |
+| 1305 | اس جي اس |
+| 1306 | ادار للكيماويات |
+| 1307 | شركة الإتفاق |
+| 1308 | شركة كوبيريون |
+| 1309 | شركة والي بيرسونز |
+| 1310 | مكتب الحداد للإستشارات الهندسية |
+| 1311 | شركة مايندر للهندسة |
+| 1312 | شركة ستار رود |
+| 1313 | مكتب الدعوة والإرشاد بالجبيل |
+| 1316 | Saudi Aramco Total Refining And Petrochemical (SATORP) |
+| 1317 | Medical Services Program - RCJ |
+| 1324 | Enmaa Manufacturing Co |
+| 1327 | GAIT |
+| 1328 | Quality and precision company for general contracting |
+| 1329 | COEKSA |
+| 1331 | International Airports Projects |
+| 1333 | Al-Tawfiq Company |
+| 1334 | AlEbtekar?‎ |
+| 1335 | ALMEER OFFICE |
+| 1336 | RICH DETAILS |
+| 1337 | Kenoz AlSharqia&nbsp;Trading &amp;&nbsp;Constructions L.L.C.&nbsp;(KSTC) |
+| 1340 | Design Plus |
+| 1354 | Al Rajhi Bank |
+| 1358 | شركة الغانم انترناشونال السعودية |
+| 1363 | Al-Hussaini Trading Co. |
+| 1365 | Fluor Arabia Co. Ltd. |
+| 1368 | TASMEM |
+| 1402 | الهيئة العامة للإستثمار |
+| 1404 | Jeraisy Company |
+| 1433 | مكتب ارك لاينر |
+| 1434 | مكتب خالد الزنيد |
+| 1435 | مستشفة الملك خالد |
+| 1436 | شلمبرجير |
+| 1437 | اتحاد الأمن السبراني والبرمجة السعودي |
+| 1438 | مدرسة سمو الرسالة الأهلية |
+| 1439 | جمعية وهج النسائية |
+| 1442 | شركة القصواء للحديد |
+| 1485 | National Petroleum Services |
+| 1494 | Salem Foundation to donkeys |
+| 1511 | InterContinental |
+| 1537 | Saudi Arabian General Investment Authority |
+| 1539 | Branch of the Ministry of Water and Electricity Ahsa region |
+| 1546 | Razyat company ltd |
+| 1549 | General Directorate of Health Affairs,eastren region |
+| 1584 | الرؤيا القابضة |
+| 1589 | STC |
+| 1597 | Royal Navy Sahudyp leadership - leadership of the eastern fl |
+| 1598 | التوكيلان  العالمية  للسيارات |
+| 1606 | ERNST &amp;YOUNG |
+| 1608 | Mohammed Nahdi Group |
+| 1615 | CMA |
+| 1625 | مكتب الشرق للترجمة |
+| 1635 | Trans Orient Translation Office |
+| 1664 | هيئة حقوق الإنسان |
+| 1666 | Water Company |
+| 1728 | Middle East Poly Co. |
+| 1754 | أرامكو السعودية |
+| 1756 | Education Office in Jubail |
+| 1757 | Advanced Gulf Eng Consultation  (AGEC) |
+| 1758 | Olayan Company |
+| 1760 | Zamil Food Industries |
+| 1761 | College of Education in Jubail - IAU |
+| 1762 | Global Anti Corrosion Techniques Co. Limited (Globetech) |
+| 1763 | InterContinental Hotel - Jubail |
+| 1764 | Jubail Labour Office |
+| 1765 | Mosook Group for Industrial Consulting &amp; Contracting |
+| 1766 | Red Sea Company for Housing Services |
+| 1767 | Global Pipe Company |
+| 1768 | EHAB ALAMRI URBAN CONSULTANT |
+| 1769 | ALEBTEKAR ALMUTAQADM FOR DECORATION |
+| 1770 | Alnaba'a Global Commercial Projects Company |
+| 1771 | Saudi Power Transformers Company |
+| 1773 | شركة موبايلي |
+| 1774 | مكتبة جرير |
+| 1777 | شركة وورلي بارسونز |
+| 1778 | شركة هناك الحل |
+| 1779 | مستشفى محمد الدوسري |
+| 1780 | مصنع الصمامات الفولاذية |
+| 1781 | إس إن سي - لافالان فايز الهندسية |
+| 1784 | Gulf Farabi Petrochemecal Co. |
+| 1788 | شركة النبأ العالمية |
+| 1789 | كلية التربية بالجبيل |
+| 1791 | المشروع الوطني للتوظيف |
+| 1794 | The National Commercial Bank (NCB) |
+| 1810 | مكتب الاء الحريري |
+| 1814 | شركة مصنع اسس التقدم للصناعات البلاستيكية |
+| 1815 | شركة المياه الوطنية |
+| 1816 | المؤسسة العامة لتحلية المياه |
+| 1819 | كوبريون الشرق الأوسط المحدودة |
+| 1822 | هيئة كفاءة الإنفاق والمشروعات الحكومية |
+| 1823 | الخطوط الحديدية السعودية |
+| 1824 | شركة تجارة وتطوير المعدات والآلات والتجهيزات رضا |
+| 1825 | شركة جاكوبس زيت |
+| 1826 | شركة ايه بي بي للصناعات الكهربائية المحدودة |
+| 1827 | شركة إس إن سي لافالين زهير فايز للهندسة |
+| 1828 | شركة تمرس للمقاولات |
+| 1829 | شركة ماكنزي الشرق الاوسط |
+| 1830 | إدارة مدينة الملك فهد العسكرية |
+| 1831 | شركة السعودي للطابوق الخلوي |
+| 1832 | الشركة العربية لتصنيع الورق |
+| 1834 | بنك البلاد |
+| 1835 | شركة سابك للمغذيات الزراعية |
+| 1836 | مؤسسة محمد الحداد للديكور والتصميم الداخلي |
+| 1837 | هيئة الزكاة والضريبة والدخل والجمارك |
+| 1839 | شركة كيان السعودية للبتروكيماويات |
+| 1840 | مجمع الملك فهد الطبي العسكري بالظهران |
+| 1841 | شركة تيكو الشرق الأوسط للكهرباء والمعدات المحدودة |
+| 1842 | . |
+| 1843 | . |
+| 1844 | TAHKUM |
+| 1845 | . |
+| 1846 | . |
+| 1847 | . |
+| 1848 | OIL SERV |
+| 1849 | - |
+| 1850 | NCEC |
+| 1851 | Taqa |
+| 1852 | Border Guard Command in the Makkah Al-Mukarramah region |
+| 1853 | aro drilling |
+| 1854 | Maintenance and technical support base for the Air Defense Forces |
+| 1855 | . |
