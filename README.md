@@ -4,6 +4,7 @@
 
 -Choose the company number then go to student reports page and paste the following code in the browser conosle  (f12)--->CONSOLE
 write allow pasting in the conosle if you can not paste 
+-then write your choosen number
 
 ```js
 var dropdown = document.querySelector('#myForm\\:authorityTrain');
