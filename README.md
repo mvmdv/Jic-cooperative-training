@@ -5,7 +5,7 @@
 -Choose the company number then go to student reports page and paste the following code in the browser conosle  (f12)--->CONSOLE
 write allow pasting in the conosle if you can not paste (edited)
 
-// JavaScript code block
+```shell
 var dropdown = document.querySelector('#myForm\\:authorityTrain');
 
 // Ask for the dropdown value from the user
@@ -29,3 +29,4 @@ setTimeout(function() {
         $(button).trigger('click');
     }, 200);  // Reduced delay to 200ms
 }, 200);  // Reduced delay to 200ms
+```
