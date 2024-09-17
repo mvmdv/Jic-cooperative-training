@@ -2,7 +2,7 @@
 
 -First you need to download companies.txt to search in it by company name (some companies names are in arabic), you will find the number beside it name
 
--Choose the company number then go to (((student reports page))) and paste the following code in the browser conosle  (f12)--->CONSOLE
+-Choose the company number then go to (((student reports page)))التقارير and paste the following code in the browser conosle  (f12)--->CONSOLE
 write allow pasting in the conosle if you can not paste 
 
 -then write your choosen number
