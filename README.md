@@ -29,6 +29,6 @@ setTimeout(function() {
 
         $(button).trigger('mouseup');
         $(button).trigger('click');
-    }, 200);  // Reduced delay to 200ms
-}, 200);  // Reduced delay to 200ms
+    }, 200);
+}, 200);
 ```
