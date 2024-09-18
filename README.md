@@ -32,7 +32,7 @@ setTimeout(function() {
     }, 100);
 }, 100);
 ```
-![View the video](path-to-your-file/example.mp4)
+![View the video](Jic-cooperative-training /example.mp4)
 
 
 <video width="640" height="480" controls>
