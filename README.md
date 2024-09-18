@@ -29,6 +29,6 @@ setTimeout(function() {
 
         $(button).trigger('mouseup');
         $(button).trigger('click');
-    }, 200);
-}, 200);
+    }, 100);
+}, 100);
 ```
