@@ -32,7 +32,8 @@ setTimeout(function() {
     }, 100);
 }, 100);
 ```
-![Video Title](example.mp4)
+![View the video](path-to-your-file/example.mp4)
+
 
 <video width="640" height="480" controls>
   <source src="example.mp4" type="video/mp4">
