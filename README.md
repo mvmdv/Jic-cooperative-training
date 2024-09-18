@@ -5,7 +5,7 @@
 -Choose the company number then go to (((student reports page)))التقارير and paste the following code in the browser conosle  (f12)--->CONSOLE
 write allow pasting in the conosle if you can not paste 
 
--then write your choosen number(There is an example video if you did not understand)
+-then write your choosen number(There is an example video if you did not understand) ![View the video](./example.mp4)
 
 ```js
 var dropdown = document.querySelector('#myForm\\:authorityTrain');
@@ -32,7 +32,7 @@ setTimeout(function() {
     }, 100);
 }, 100);
 ```
-![View the video](./example.mp4)
+
 
 
 <video controls>
